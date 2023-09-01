@@ -1,0 +1,147 @@
+{
+    "works" : [
+        {
+            "id" : 1,
+            "image": "/images/s1.jpg",
+            "title": "Lara",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id" : 2,
+            "image": "/images/s2.jpg",
+            "title": "Adam",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id" : 3,
+            "image": "/images/s4.jpg",
+            "title": "Joe",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        }
+    ],
+
+    "portfolio" : [
+        {
+            "id":1,
+            "image": "/images/1.jpg"
+        },
+        {
+            "id":2,
+            "image": "images/2.jpeg"
+        },
+        {
+            "id":3,
+            "image": "images/3.jpg"
+        },
+        {
+            "id":4,
+            "image": "images/slider4.jpeg"
+        },
+        {
+            "id":5,
+            "image": "images/slider1.jpg"
+        },
+        {
+            "id":6,
+            "image": "images/slider2.jpg"
+        },
+        {
+            "id":7,
+            "image": "images/slider3.jpg"
+        },
+        {
+            "id":8,
+            "image": "images/slider5.jpg"
+        }
+    ] ,
+    "skills": [
+        {
+            "id": 1,
+            "title": "Bootstrap",
+            "perc": "100%"
+        },
+        {
+            "id": 2,
+            "title": "Sass",
+            "perc": "90%"
+        },
+        {
+            "id": 3,
+            "title": "JavaScript",
+            "perc": "80%"
+        },
+        {
+            "id": 4,
+            "title": "React",
+            "perc": "60%"
+        }
+    ],
+    "gallery" : [
+        {
+            "id": 1,
+            "image" : "/images/s1.jpg"
+        },
+        {
+            "id": 2,
+            "image" : "/images/s2.jpg"
+        },
+        {
+            "id": 3,
+            "image" : "/images/s3.jpg"
+        },
+        {
+            "id": 4,
+            "image" : "/images/s4.jpg"
+        },
+        {
+            "id": 5,
+            "image" : "/images/s1.jpg"
+        },
+        {
+            "id": 6,
+            "image" : "/images/s2.jpg"
+        },
+        {
+            "id": 7,
+            "image" : "/images/s3.jpg"
+        },
+        {
+            "id": 8,
+            "image" : "/images/s4.jpg"
+        },
+        {
+            "id": 9,
+            "image" : "/images/s1.jpg"
+        },
+        {
+            "id": 10,
+            "image" : "/images/s2.jpg"
+        },
+        {
+            "id": 11,
+            "image" : "/images/s3.jpg"
+        },
+        {
+            "id": 12,
+            "image" : "/images/s4.jpg"
+        }
+    ],
+    "social" : [
+        {
+            "id" : 1,
+            "icon" : "fa-brands fa-square-facebook"
+        },
+        {
+            "id" : 2,
+            "icon" : "fa-brands fa-instagram"
+        },
+        {
+            "id" : 3,
+            "icon" : "fa-brands fa-twitter"
+        },
+        {
+            "id" : 4,
+            "icon" : "fa-brands fa-linkedin"
+        }
+    ] 
+}
